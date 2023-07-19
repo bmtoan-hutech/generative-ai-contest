@@ -44,7 +44,6 @@ Participants are required to complete the following tasks:
 - Example target result:
   - [Sample target result](./sample_target_result.pdf)
   - This example is provided for illustrative purposes only. The actual target result will be evaluated based on the contest criteria.
-
 ```
 graph TD
     ENC101 --> ENC102
@@ -103,6 +102,9 @@ graph TD
     PHT317 --> PHT318
 ```
 
+- Example console application output:
+  ![Sample Output](sample_console_application_output.jpg)
+  
 ## 🏅 Prizes
 
 - 1st Place: 500,000 VND
