@@ -103,7 +103,7 @@ graph TD
 ```
 
 - Example console application output:
-  ![Sample Output](sample_console_application_output.jpg)
+[<img src="sample_console_application_output.jpg" height="250"/>](sample_console_application_output.jpg)
   
 ## 🏅 Prizes
 
