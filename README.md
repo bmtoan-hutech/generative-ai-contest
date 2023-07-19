@@ -116,7 +116,7 @@ To participate in the contest, follow these steps:
 
 1. Develop your application and create a documentation file describing the application and the process of generating Mermaid diagrams.
 2. Wrap both the application code and the documentation file into a single zip file. Without packages, node_module or libraries folder.
-3. Upload the zip file using the provided Google Form: [Submission Form Link]. (Please make sure the file size is below the specified limit.)
+3. Upload the zip file using the provided Google Form: [Submission Form Link](https://forms.gle/Dv7qbswr1i4TxGnT8). (Please make sure the file size is below the specified limit.)
 4. Submit the form by **July 30, 2023, local time in Vietnam (23:59 GMT+7)**.
 
 ## ❓ Questions and Support
