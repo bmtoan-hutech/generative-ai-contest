@@ -45,6 +45,35 @@ Participants are required to complete the following tasks:
   - [Sample target result](./sample_target_result.pdf)
   - This example is provided for illustrative purposes only. The actual target result will be evaluated based on the contest criteria.
 
+```
+graph TD
+    ENC101 --> ENC102
+    ENC102 --> ENC103
+    ENC103 --> ENC104
+    SKL115 --> SKL116
+    CMP1074 --> CMP164
+    CMP164 --> COS120
+    COS135 --> COS101
+    CMP167 --> CMP174
+    CMP172 --> CMP180
+    CMP167 --> CMP170
+    CMP167 --> CMP177
+    CMP167 --> CMP175
+    COS138 --> CMP172
+    CMP101 --> MAN104
+    COS138 --> CMP383
+    PHT304 --> PHT305
+    PHT305 --> PHT306
+    PHT307 --> PHT308
+    PHT308 --> PHT309
+    PHT310 --> PHT311
+    PHT311 --> PHT312
+    PHT313 --> PHT314
+    PHT314 --> PHT315
+    PHT316 --> PHT317
+    PHT317 --> PHT318
+```
+
 ```mermaid
 graph TD
     ENC101 --> ENC102
