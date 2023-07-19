@@ -8,11 +8,11 @@ YouthDev-ADGAIC-2023
 Welcome to the Application Development with Generative AI Contest! This contest challenges participants to develop innovative applications using Generative AI techniques. Put your skills to the test and showcase your creativity in building AI-powered applications.
 
 ## 📝 Contest Details
-- **Eligibility**: All HUTECH university students from all faculties and departments are eligible to participate.
-- **Objective**: Develop an application (not just prompt chat messages) that utilizes Generative AI techniques to create novel and unique outputs.
-- **Programming Languages**: Participants can use **any programming language or framework** of their choice.
+- **Eligibility**: ***All HUTECH university*** students from all faculties and departments are eligible to participate.
+- **Objective**: Develop an application ***(not just prompt chat messages)*** that utilizes Generative AI techniques to create novel and unique outputs.
+- **Programming Languages**: Participants can use ***any programming language or framework*** of their choice.
 - **Dataset**: We provide a sample dataset for testing below.
-- **Deadline**: Submissions must be made by the end of July 30, 2023, local time in Vietnam (23:59 GMT+7).
+- **Deadline**: Submissions must be made by ***the end of July 30, 2023, local time in Vietnam (23:59 GMT+7).***
 
 ## 💡 Contest Guidelines
 
@@ -20,7 +20,7 @@ Participants must adhere to the following guidelines:
 
 - Participants must adhere to ethical guidelines and avoid using offensive or harmful content.
 - Submissions should include:
-  1. A working application (.zip file below 100MB).
+  1. A **working application** (.zip file).
   2. A **brief documentation** describing the application (.pdf file).
   3. The **share link** (e.g., https://chat.openai.com/share/ee4ccbfd-699b-4e0d-a6e4-a427417d1d04).
 - Make sure your code is well-structured, documented, and follows best practices.
@@ -30,15 +30,15 @@ Participants must adhere to the following guidelines:
 
 Participants are required to complete the following tasks:
 
-1. Utilize a Generative AI tool, such as ChatGPT, to create an application that can read and write Mermaid code.
-2. Implement the Generative AI model into a functional console application.
-3. Showcase the application's capabilities by generating unique Mermaid diagrams based on user input (Excel/PDF).
+1. Utilize a Generative AI tool, such as ***ChatGPT***, to create an application that can read Excel/PDF files and write Mermaid code.
+2. Implement the Generative AI model into a functional *(may use console)* application.
+3. Showcase the application's capabilities by ***generating Mermaid diagrams*** based on user input (Excel/PDF file).
 4. Write a documentation file describing the application, its features, and the process of generating Mermaid diagrams.
 5. Submit the documentation file along with the application.
 
 ## 📂 Sample Files and Target Result
 
-- We provide the following sample files for training and testing your Generative AI models:
+- We provide the following sample files for input and testing your application:
   - [Sample Excel File](./sample_data.xlsx)
   - [Sample PDF File](./sample_data.pdf)
 - Example target result:
@@ -114,9 +114,9 @@ graph TD
 
 To participate in the contest, follow these steps:
 
-1. Develop your application and create a documentation file describing the application and the process of generating Mermaid diagrams.
-2. Wrap both the application code and the documentation file into a single zip file. Without packages, node_module or libraries folder.
-3. Upload the zip file using the provided Google Form: [Submission Form Link](https://forms.gle/Dv7qbswr1i4TxGnT8). (Please make sure the file size is below the specified limit.)
+1. Develop your ***application*** and create a ***documentation file*** describing the application and the process of generating Mermaid diagrams.
+2. Wrap both the application code and the documentation file into a ***single zip file***. *Without packages, node_module or libraries folder.*
+3. Upload the zip file and share the ChatGPT link using the provided Google Form: [Submission Form Link](https://forms.gle/Dv7qbswr1i4TxGnT8). (Please make sure the file size is below 100MB.)
 4. Submit the form by **July 30, 2023, local time in Vietnam (23:59 GMT+7)**.
 
 ## ❓ Questions and Support
