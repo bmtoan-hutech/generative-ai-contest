@@ -1,5 +1,5 @@
 # 🏆 YouthDev Application Development with Generative AI Contest 2023
-YouthDev-ADGAIC-2023
+YouthDev-ADGAIC-2023 - [Tiếng Việt](https://github.com/hutechbmtoan/youthdev-generative-ai-contest-2023/blob/main/README-vi.md)
 
 ![Contest Logo](contest_logo.jpg)
 
