@@ -123,6 +123,7 @@ To participate in the contest, follow these steps:
 
 ## ❓ Questions and Support
 
+Join Zalo Group: https://zalo.me/g/dyqsii775
 For any questions or support regarding the contest, please reach out to us at bm.toan@hutech.edu.vn or visit https://www.facebook.com/groups/clbhutechyouthdev.
 
 Join now and showcase your skills in application development with Generative AI!
