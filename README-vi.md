@@ -126,6 +126,7 @@ graph TD
 
 ## ❓ Câu Hỏi và Hỗ Trợ
 
+Tham gia Group Zalo: https://zalo.me/g/dyqsii775
 Đối với bất kỳ câu hỏi hoặc hỗ trợ nào liên quan đến cuộc thi, vui lòng liên hệ chúng tôi qua bm.toan@hutech.edu.vn hoặc truy cập https://www.facebook.com/groups/clbhutechyouthdev.
 
 Hãy tham gia ngay và thể hiện kỹ năng trong việc phát triển ứng dụng với Generative AI!
