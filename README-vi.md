@@ -40,9 +40,9 @@ Thí sinh cần hoàn thành các nhiệm vụ sau:
 
 - Chúng tôi cung cấp các tệp mẫu sau để đưa vào và kiểm tra ứng dụng của bạn:
   - [Tệp Excel Mẫu](./sample_data.xlsx)
-  -
-
- [Tệp PDF Mẫu](./sample_data.pdf)
+  - [Tệp PDF Mẫu](./sample_data.pdf)
+  - [Các tệp mẫu khác](https://www.hutech.edu.vn/daotao/ke-hoach-dao-tao/91386-noi-dung-chuong-trinh-dao-tao-dai-hoc-chinh-quy-khoa-2022)
+  
 - Kết quả mục tiêu ví dụ:
   - [Kết quả mục tiêu mẫu](./sample_target_result.pdf)
   - Ví dụ này được cung cấp chỉ nhằm mục đích minh họa. Kết quả mục tiêu thực tế sẽ được đánh giá dựa trên tiêu chí cuộc thi.
