@@ -12,7 +12,7 @@ Welcome to the Application Development with Generative AI Contest! This contest 
 - **Objective**: Develop an application ***(not just prompt chat messages)*** that utilizes Generative AI techniques to create novel and unique outputs.
 - **Programming Languages**: Participants can use ***any programming language or framework*** of their choice.
 - **Dataset**: We provide a sample dataset for testing below.
-- **Deadline**: Submissions must be made by ***the end of July 30, 2023, local time in Vietnam (23:59 GMT+7).***
+- **Deadline**: Submissions must be made by ***the end of August 10, 2023, local time in Vietnam (23:59 GMT+7).***
 
 ## 💡 Contest Guidelines
 
@@ -119,7 +119,7 @@ To participate in the contest, follow these steps:
 1. Develop your ***application*** and create a ***documentation file*** describing the application and the process of generating Mermaid diagrams.
 2. Wrap both the application code and the documentation file into a ***single zip file***. *Without packages, node_module or libraries folder.*
 3. Upload the zip file and share the ChatGPT link using the provided Google Form: [Submission Form Link](https://forms.gle/Dv7qbswr1i4TxGnT8). (Please make sure the file size is below 100MB.)
-4. Submit the form by **July 30, 2023, local time in Vietnam (23:59 GMT+7)**.
+4. Submit the form by **August 10, 2023, local time in Vietnam (23:59 GMT+7)**.
 
 ## ❓ Questions and Support
 
