@@ -12,7 +12,7 @@ Chào mừng đến với Cuộc thi Phát Triển Ứng Dụng với Generative
 - **Mục tiêu**: Phát triển một ứng dụng ***(không chỉ là các thông điệp chat)*** sử dụng kỹ thuật Generative AI để tạo ra các kết quả độc đáo và mới mẻ.
 - **Ngôn ngữ lập trình**: Thí sinh có thể sử dụng ***bất kỳ ngôn ngữ lập trình hoặc framework nào*** mà họ chọn.
 - **Dữ liệu mẫu**: Chúng tôi cung cấp dữ liệu mẫu để kiểm tra như bên dưới.
-- **Thời hạn**: Thí sinh cần nộp bài trước thời điểm ***hết ngày 30/07/2023 theo giờ Việt Nam (23:59 GMT+7).***
+- **Thời hạn**: Thí sinh cần nộp bài trước thời điểm ***hết ngày 10/08/2023 theo giờ Việt Nam (23:59 GMT+7).***
 
 ## 💡 Hướng Dẫn Cuộc Thi
 
@@ -122,7 +122,7 @@ graph TD
 1. Phát triển ***ứng dụng*** và tạo một ***tệp tài liệu*** mô tả ứng dụng và quy trình tạo ra các biểu đồ Mermaid.
 2. Gói tất cả mã nguồn của ứng dụng và tệp tài liệu vào một ***tệp zip duy nhất***. *Không chứa các folder packages, node_module hoặc các thư viện.*
 3. Tải tệp zip lên và chia sẻ liên kết ChatGPT sử dụng ***Google Form cung cấp***: [Google Form Nộp Bài](https://forms.gle/Dv7qbswr1i4TxGnT8). (Vui lòng đảm bảo dung lượng tệp dưới 100MB.)
-4. Nộp biểu mẫu trước thời điểm **hết ngày 30/07/2023 theo giờ Việt Nam (23:59 GMT+7)**.
+4. Nộp biểu mẫu trước thời điểm **hết ngày 10/08/2023 theo giờ Việt Nam (23:59 GMT+7)**.
 
 ## ❓ Câu Hỏi và Hỗ Trợ
 
