@@ -41,6 +41,8 @@ Participants are required to complete the following tasks:
 - We provide the following sample files for input and testing your application:
   - [Sample Excel File](./sample_data.xlsx)
   - [Sample PDF File](./sample_data.pdf)
+  - [Another Sample Files](https://www.hutech.edu.vn/daotao/ke-hoach-dao-tao/91386-noi-dung-chuong-trinh-dao-tao-dai-hoc-chinh-quy-khoa-2022)
+
 - Example target result:
   - [Sample target result](./sample_target_result.pdf)
   - This example is provided for illustrative purposes only. The actual target result will be evaluated based on the contest criteria.
